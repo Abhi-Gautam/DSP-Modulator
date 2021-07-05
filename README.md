@@ -1,13 +1,13 @@
 # DSP-Modulator
 MATLAB GUI based waveform modulator using several modulation techniques like SSB/DSB-FC/DSB/SC 
 
-<p align="center">
-  <img src="Fig1.png" width="350" title="hover text">
+<p>
+  <img src="Fig1.png" width="600" title="hover text">
 </p>
 
 
 
-<p align="center">
-  <img src="Fig2.png" width="350" alt="accessibility text">
+<p>
+  <img src="Fig2.png" width="600" alt="accessibility text">
 </p>
 
